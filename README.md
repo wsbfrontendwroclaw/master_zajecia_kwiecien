@@ -2,3 +2,4 @@
 Update
 Zmiana od stanislaw figiel
 Pozdrawiam
+I jeszcze raz testy stanislaw figiel
